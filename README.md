@@ -1,4 +1,8 @@
 # DataAnalysis-InternshipProject
 
-This is an internship project wherein my role was to analyze the performance of Polo Athletes.
+This is an internship project wherein my role was to analyze the performance of Polo Athletes.<br>
+
+![Alt Text](https://github.com/gagan2kaur/DataAnalysis-InternshipProject/blob/main/Image/MainDashboard.png)
+
+
 
